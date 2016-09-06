@@ -1,0 +1,6 @@
+{
+  "navs":[
+    {"title":"New Message", "icon":"fa-pencil"},
+    {"title":"Sent", "icon":"fa-paper-plane"}
+  ]
+}
